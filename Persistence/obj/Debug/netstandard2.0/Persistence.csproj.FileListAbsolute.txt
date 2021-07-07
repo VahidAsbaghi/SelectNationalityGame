@@ -1,0 +1,9 @@
+C:\Users\Vahid\source\repos\SelectNationality\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\Users\Vahid\source\repos\SelectNationality\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Vahid\source\repos\SelectNationality\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\source\repos\SelectNationality\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Vahid\source\repos\SelectNationality\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\Users\Vahid\source\repos\SelectNationality\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Vahid\source\repos\SelectNationality\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\Vahid\source\repos\SelectNationality\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\Users\Vahid\source\repos\SelectNationality\Persistence\obj\Debug\netstandard2.0\Persistence.pdb

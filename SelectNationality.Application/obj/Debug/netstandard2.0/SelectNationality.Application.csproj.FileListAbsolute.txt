@@ -1,0 +1,14 @@
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\bin\Debug\netstandard2.0\SelectNationality.Application.deps.json
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\bin\Debug\netstandard2.0\SelectNationality.Application.dll
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\bin\Debug\netstandard2.0\SelectNationality.Application.pdb
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\obj\Debug\netstandard2.0\SelectNationality.Application.csprojAssemblyReference.cache
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\obj\Debug\netstandard2.0\SelectNationality.Application.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\obj\Debug\netstandard2.0\SelectNationality.Application.AssemblyInfoInputs.cache
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\obj\Debug\netstandard2.0\SelectNationality.Application.AssemblyInfo.cs
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\obj\Debug\netstandard2.0\SelectNationality.Application.dll
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\obj\Debug\netstandard2.0\SelectNationality.Application.pdb
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\bin\Debug\netstandard2.0\SelectNationality.Domain.dll
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\bin\Debug\netstandard2.0\SelectNationality.Domain.pdb
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\obj\Debug\netstandard2.0\SelectNationality.Application.csproj.CopyComplete
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Vahid\source\repos\SelectNationality\SelectNationality.Application\bin\Debug\netstandard2.0\Persistence.pdb

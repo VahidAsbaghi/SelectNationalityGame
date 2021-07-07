@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "Select Nationality";
+    Layout = null;
+}
+<head>
+    <link rel="stylesheet" href="css/game.css">
+    
+</head>
+
+<body onload="MovePictures(@ViewData["people"])">
+    <div id="myAnimation"></div>
+    <div>
+        <div id="green">
+            <p class="textCenter">Japanese</p>
+        </div>
+        <div id="red">
+            <p class="textCenter">Chinese</p>
+        </div>
+        <div id="yellow">
+            <p class="textCenter">Korean</p>
+        </div>
+        <div id="blue">
+            <p class="textCenter">Thai</p>
+        </div>
+    </div>
+    <div id="photoDiv">
+        <img class="imageCenter" onmousedown="doDragDrop()" draggable="true" id="photo" src="images/1.jpg" alt="this is an image" />
+    </div>
+    <div id="gameOver" class="gameOverDiv">
+        <h2 style="text-align: center" id="Score"></h2>
+        <button onclick="window.location.reload();">Restart Game</button>
+
+    </div>
+</body>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+<script src="lib/jquery/dist/jquery.min.js"></script>
+<script src="js/game.js"></script>
+<script>
+    imageElement = document.getElementById("photo");
+</script>
